@@ -5,7 +5,7 @@ import com.albertsonspoc.UserShop.dto.NewUserDto;
 import com.albertsonspoc.UserShop.dto.UserProfileDto;
 import com.albertsonspoc.UserShop.exception.ActionFailureException;
 import com.albertsonspoc.UserShop.services.UserService;
-import domain.Response;
+import com.albertsonspoc.UserShop.domain.Response;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

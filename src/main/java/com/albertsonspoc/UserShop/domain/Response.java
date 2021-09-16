@@ -1,4 +1,4 @@
-package domain;
+package com.albertsonspoc.UserShop.domain;
 
 import org.springframework.stereotype.Component;
 
